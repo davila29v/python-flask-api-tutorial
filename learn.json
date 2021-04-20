@@ -1,7 +1,7 @@
 {
     "config": {
         "port": 3000,
-        "address": "https://crimson-crocodile-vsirh6dv.ws-us03.gitpod.io",
+        "address": "https://fuchsia-goat-79taag9r.ws-us03.gitpod.io",
         "editor": {
             "mode": "gitpod",
             "version": "1.0.61"
@@ -14,6 +14,9 @@
         "exercisesPath": ".learn/exercises",
         "disableGrading": false,
         "actions": [
+            "build",
+            "test",
+            "reset",
             "build",
             "test",
             "reset"
@@ -384,7 +387,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 12,
@@ -414,7 +417,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 13,
@@ -444,7 +447,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 14,
@@ -474,7 +477,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 15,
@@ -504,7 +507,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 16,
@@ -534,7 +537,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         }
     ]
 }
